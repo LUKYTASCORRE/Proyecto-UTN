@@ -1,4 +1,25 @@
-img {
-    width: 120px;
-    }
+.navbar{
+    line-height: 6rem;
+    background-color: white;
+}
+/* Inicio */
+#primera-opcion{
+    color: red;
     
+}
+img {
+    width: 250px;
+    }
+
+#logo{
+    display: flex;
+    justify-content: center;
+}
+.img-face{
+    width: 35px;
+    
+}
+.col-9{
+    display: flex;
+    justify-content: center;
+}
